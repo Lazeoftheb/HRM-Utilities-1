@@ -25,6 +25,7 @@ A comprehensive Discord bot designed for the High Rock Military Corps server, fe
 - **Verification & Welcome**: Automated member verification and welcome messages
 - **Application System**: Streamlined application process for new members
 - **Suggestion Box**: Community suggestion submission and management
+- **HTTP image hosting service**: HTTP image hosting service so you dont go insane Rebanding
 
 ### 🛡️ Moderation Tools
 - **Infraction System**: Issue, void, view, and list infractions with DM notifications
